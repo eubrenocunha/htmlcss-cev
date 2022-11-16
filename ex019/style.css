@@ -1,0 +1,18 @@
+@charset "UTF-8"
+
+
+h1{
+    color: rgb(19, 102, 19);
+}
+H1#PRINCIPAL{
+    background-color: rgb(5, 51, 5);
+    color: aliceblue;
+}
+h2{
+    color: rgb(6, 95, 6);
+}
+
+.basico{
+    color: red;
+    font-weight: bold;
+}
